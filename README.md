@@ -1,1 +1,1 @@
-# Portfólio de Irisná Silva Leite`n`nSite estático profissional. O GitHub Pages publica a página inicial a partir do arquivo `index.html` na raiz.
+# Portfólio de Irisná Silva Leite`n`nArquivos do portfólio para publicação na plataforma escolhida. O arquivo principal é `index.html`; mantenha junto as imagens referenciadas na página.
